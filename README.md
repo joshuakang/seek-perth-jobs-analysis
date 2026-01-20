@@ -38,15 +38,16 @@ for job seekers and business decision-making.
 ## Project Structure
 seek-perth-jobs-analysis/
 ├─ data/
-│ ├─ raw/
-│ │ └─ seek.xlsx
-│ └─ cleaned/
-│ └─ seek_cleaned_perth_jobs.xlsx
+│  ├─ raw/
+│  │  └─ seek.xlsx
+│  └─ cleaned/
+│     └─ seek_cleaned_perth_jobs.xlsx
 ├─ notebooks/
-│ ├─ 01_data_cleaning_and_eda.ipynb
-│ └─ 02_sales_bd_job_analysis.ipynb
+│  ├─ 01_data_cleaning_and_eda.ipynb
+│  └─ 02_sales_bd_job_analysis.ipynb
 ├─ requirements.txt
 └─ README.md
+
 ---
 
 ## Analysis Workflow
@@ -69,12 +70,16 @@ seek-perth-jobs-analysis/
 ---
 
 ## Key Insights
-- Sales and Business Development roles represent a significant share of Perth job postings.
-- Business Development Manager and Sales Representative are among the most common titles.
-- A small group of companies shows repeated hiring activity, indicating sustained demand.
-- Featured roles suggest higher competition and employer urgency.
+- Sales and Business Development roles account for a significant proportion of job postings in Perth.
+- Business Development Manager and Sales Representative are the most frequently advertised titles.
+- Several companies show repeated hiring activity, suggesting ongoing or structural demand rather than one-off recruitment.
+- Featured roles are more common among senior or commission-based positions, indicating higher competition and employer urgency.
 
----
+## Executive Summary
+This analysis shows that Perth’s job market has strong and consistent demand for Sales and Business Development professionals.
+Repeated hiring by the same employers suggests long-term growth needs rather than short-term recruitment.
+These insights can support job seekers in prioritizing target companies and roles strategically.
+
 
 ## Tools & Skills Demonstrated
 - Python
@@ -92,6 +97,10 @@ This project demonstrates the ability to:
 - Translate raw data into meaningful business insights
 - Apply data analytics to practical decision-making scenarios
 - Communicate findings clearly to non-technical stakeholders
+
+## Relevance to Employers
+This project demonstrates the ability to transform unstructured market data into clear hiring and market insights,
+supporting evidence-based decision-making in sales strategy, workforce planning, and market entry analysis.
 
 ---
 
